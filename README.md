@@ -3,23 +3,23 @@ A Minecraft data pack for stalking ComputerCraft turtles.
 
 ### Use
 
-```
 Set a turtle by looking at the turtle and running the following. You should get a confirmation message.
+```
 /function tfollow:set
 ```
 
-```
 Start following the turtle by running
+```
 /function tfollow:follow
 ```
 
-```
 Stop following the turtle by running
+```
 /function tfollow:unfollow
 ```
 
-```
 Unset the turtle by running
+```
 /function tfollow:unset
 ```
 
